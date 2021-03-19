@@ -7,7 +7,7 @@
 На тестирование затрачено: <2 часа>
 
 ### В результате тестирования выявлены следующие дефекты:
--[При сложении двух нецелых чисел IntellijIDEA выдает неверный результат](https://github.com/SokovKirill/SpecialBonus/issues/1)
+- [IntellijIDEA выдает неверный результат при сложении двух нецелых чисел](https://github.com/SokovKirill/SpecialBonus/issues/1)
 
 
 ## Описание процесса тестирования
